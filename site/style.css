@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(12, 9, 7);/*rgb(12, 5, 0);*/
+    color: rgb(235, 229, 225);
+    font-family: 'Work Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#main-name {
+    font-size: 6rem;
+}
+
+#amber {
+    color: rgb(255, 122, 29);
+}
