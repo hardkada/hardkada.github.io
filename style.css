@@ -2,14 +2,20 @@ html {
     background-color: rgb(12, 9, 7);/*rgb(12, 5, 0);*/
     color: rgb(235, 229, 225);
     font-family: 'Work Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    display: flex;
-    justify-content: center;
+}
+
+body {
+    margin: 0;
+    display: grid;
+    place-content: center;
 }
 
 #main-name {
     font-size: 6rem;
+    display: flex;
+    align-items: center;
 }
 
-#amber {
+.amber {
     color: rgb(255, 122, 29);
 }
